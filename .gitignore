@@ -19,3 +19,4 @@ media/
 # Arquivos temporários
 *.swp
 .DS_Store
+.vercel

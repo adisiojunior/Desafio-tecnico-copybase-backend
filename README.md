@@ -39,7 +39,23 @@
     ```
     http://localhost:8000/api/upload/
     ```
+   ![img.png](img.png)
 
 Isso deve exibir o endpoint para upload de arquivos, conforme configurado no seu projeto Django Rest Framework.
 
 Certifique-se de ajustar o URL e o comando de clonagem do repositório de acordo com o seu caso específico.
+
+# Instruções para Executar o Projeto Django Rest Framework com Docker
+
+## Execução do Servidor de Desenvolvimento com Docker
+
+1. Use Docker para executar o servidor de desenvolvimento Django:
+    ```bash
+      docker-compose build
+    ```
+2. Depois:
+    ```bash
+      docker-compose up
+    ```
+
+
