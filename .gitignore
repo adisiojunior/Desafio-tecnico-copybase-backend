@@ -1,0 +1,21 @@
+# Arquivos de compilação Python
+*.pyc
+__pycache__
+
+# Ambiente virtual
+venv/
+.env
+
+# Arquivos de configuração local
+settings.py
+local_settings.py
+
+# Arquivos de log
+*.log
+
+# Arquivos de mídia
+media/
+
+# Arquivos temporários
+*.swp
+.DS_Store
